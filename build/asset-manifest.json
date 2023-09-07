@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f85ddef.css",
+    "main.js": "/static/js/main.e91a9f48.js",
+    "static/media/P4.png": "/static/media/P4.3742090c54e584fa1348.png",
+    "static/media/NFlogo.png": "/static/media/NFlogo.77ba64d8813d5a26e7e7.png",
+    "index.html": "/index.html",
+    "main.5f85ddef.css.map": "/static/css/main.5f85ddef.css.map",
+    "main.e91a9f48.js.map": "/static/js/main.e91a9f48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f85ddef.css",
+    "static/js/main.e91a9f48.js"
+  ]
+}
